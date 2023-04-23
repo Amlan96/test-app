@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/e949abeb-6c9e-4be9-b8db-12f1b4ad1077/resourceGroups/test-app/providers/Microsoft.Web/sites/tes-app-amlan",
+    "appService.deploySubpath": "."
+}
